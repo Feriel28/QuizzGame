@@ -1,2 +1,0 @@
-# QuizzGame
-Training in C++
