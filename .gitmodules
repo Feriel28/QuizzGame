@@ -1,0 +1,3 @@
+[submodule "quizzgame"]
+	path = quizzgame
+	url = https://github.com/Feriel28/quizzgame.git
